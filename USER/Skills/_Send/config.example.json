@@ -1,0 +1,13 @@
+{
+  "webhookUrl": "https://your-n8n-instance/webhook/send",
+  "defaultChannels": ["email"],
+  "sender": {
+    "name": "Your Name",
+    "email": "you@example.com"
+  },
+  "resend": {
+    "fromEmail": "onboarding@resend.dev",
+    "fromName": "PAI",
+    "_note": "Change fromEmail to your verified domain (e.g., pai@yourdomain.com)"
+  }
+}
