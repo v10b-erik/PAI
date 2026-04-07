@@ -1,7 +1,7 @@
 ---
 advisor_id: PeterAttia
 name: "Peter Attia"
-triggers: ["@attia", "@peter-attia", "longevity", "healthspan", "medicine 3.0"]
+triggers: ["@cho", "@attia", "@peter-attia", "longevity", "healthspan", "medicine 3.0"]
 role: Chief Health Officer
 category: health
 update_enabled: true

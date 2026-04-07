@@ -1,7 +1,7 @@
 ---
 advisor_id: GwynneShotwell
 name: "Gwynne Shotwell"
-triggers: ["@gwynne", "@shotwell", "operations", "leadership", "scaling", "execution"]
+triggers: ["@coo", "@gwynne", "@shotwell", "operations", "leadership", "scaling", "execution"]
 role: COO & Operations Leader
 category: ops
 update_enabled: true

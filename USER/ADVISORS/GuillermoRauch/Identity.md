@@ -1,7 +1,7 @@
 ---
 advisor_id: GuillermoRauch
 name: "Guillermo Rauch"
-triggers: ["@guillermo", "@rauch", "vercel", "next.js", "frontend", "ai-native", "v0"]
+triggers: ["@cto", "@guillermo", "@rauch", "vercel", "next.js", "frontend", "ai-native", "v0"]
 role: Chief Technology Officer
 category: tech
 update_enabled: true

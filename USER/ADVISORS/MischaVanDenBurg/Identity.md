@@ -1,7 +1,7 @@
 ---
 advisor_id: MischaVanDenBurg
 name: "Mischa van den Burg"
-triggers: ["@mischa", "homelab", "sovereignty", "self-hosted", "azure devops"]
+triggers: ["@devops", "@mischa", "homelab", "sovereignty", "self-hosted", "azure devops"]
 role: DevOps & Sovereignty Advisor
 category: tech
 update_enabled: true

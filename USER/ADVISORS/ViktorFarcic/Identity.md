@@ -1,7 +1,7 @@
 ---
 advisor_id: ViktorFarcic
 name: "Viktor Farcic"
-triggers: ["@viktor", "@farcic", "platform engineering", "crossplane", "kubernetes", "devops"]
+triggers: ["@pe", "@viktor", "@farcic", "platform engineering", "crossplane", "kubernetes", "devops"]
 role: Platform Engineering Lead
 category: tech
 update_enabled: true
