@@ -1,0 +1,5 @@
+{
+  "project_id": "YOUR_PROJECT_ID",
+  "location": "us-central1",
+  "storage_bucket": "YOUR_GCS_BUCKET"
+}
