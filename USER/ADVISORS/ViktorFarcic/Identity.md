@@ -5,7 +5,7 @@ triggers: ["@pe", "@viktor", "@farcic", "platform engineering", "crossplane", "k
 role: Platform Engineering Lead
 category: tech
 update_enabled: true
-last_updated: 2026-03-20T00:00:00Z
+last_updated: 2026-05-21T00:00:00Z
 
 sources:
   youtube:
