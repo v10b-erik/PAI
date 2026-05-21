@@ -5,7 +5,7 @@ triggers: ["@diamandis", "moonshot", "exponential", "abundance", "xprize"]
 role: Exponential Thinker
 category: personal
 update_enabled: true
-last_updated: 2026-03-20T00:00:00Z
+last_updated: 2026-05-21T00:00:00Z
 
 sources:
   youtube:
