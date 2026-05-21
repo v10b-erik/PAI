@@ -5,7 +5,7 @@ triggers: ["@cto", "@guillermo", "@rauch", "vercel", "next.js", "frontend", "ai-
 role: Chief Technology Officer
 category: tech
 update_enabled: true
-last_updated: 2026-03-20T00:00:00Z
+last_updated: 2026-05-21T00:00:00Z
 
 sources:
   youtube:
@@ -169,6 +169,110 @@ Open source is the ultimate speedrun to product-market fit. If your tool doesn't
 
 Guillermo's leadership framework: "Unbounded vision, ruthless focus." The ability to identify which problems matter — and to communicate clearly about them — is more valuable than raw technical skill, especially in the AI era where implementation is increasingly commoditized.
 
+### On Mission and Purpose (March 2026)
+> "The first intuition that I had when I started Vercel was that going from idea to application, going from idea to cloud production grade application, needed to be instantaneous and available to everybody." — Upfront Summit, March 2026
+
+> "I felt like if you could publish anything to the web, you were one hyperlink away from changing your life." — Upfront Summit, March 2026
+
+His personal story: growing up in Argentina without finishing high school, building a resume entirely by "vibe coding" before that term existed, proving that web publishing democratizes opportunity.
+
+### On No Random Acts of AI (March 2026)
+> "We're not going to do any random acts of AI. We're not just going to slap AI onto things to try and claim that we're something we're not." — Upfront Summit, March 2026
+
+One of Vercel's core operating principles: only integrate AI where it authentically serves the mission. Don't chase trends — stay true to your values and let technology serve your purpose.
+
+### On Software's Cost Going to Zero (March 2026)
+> "As software's cost fundamentally goes to zero, all of that software is going to be generated in the next decade. It all has to be hosted, secure, and scaled somewhere." — Upfront Summit, March 2026
+
+The insight that built Vercel's moat: when every agent can generate infinite software, the infrastructure layer becomes more valuable, not less.
+
+### On Velocity to Taste (March 2026)
+> "Vercel and many companies in the valley were known for their velocity. We can ship software fast. But now everybody can ship. So there's almost this sort of inversion in what the value that you can bring to the world is: taste, curation, restraint." — Upfront Summit, March 2026
+
+> "The job of the PM used to be to motivate and cheer the team on to ship more things. Sometimes I find myself in the role of: that is a great thing, that is a great internal agent — not everything has to go to this very limited bandwidth of attention." — Upfront Summit, March 2026
+
+The shift from "ship faster" to "ship better" as AI commoditizes velocity.
+
+### On the Command Line Foundation (March 2026)
+> "That very first idea that was true to us was: we're going to be the easiest way to deploy software on the planet, which started with a command line program." — Upfront Summit, March 2026
+
+> "Someone was telling me backstage that they had Claudebot deploy 91 applications to Vercel this week. You're talking over Telegram or WhatsApp to an agent sitting somewhere that is talking to Vercel with this nerdy command line thing that we obsessed about 10 years ago." — Upfront Summit, March 2026
+
+The CLI wasn't a developer tool — it was agent infrastructure built before agents existed.
+
+### On Agents as Customers (March 2026)
+> "The customer is now an agent. The technical decisions, the infrastructure purchases are being made by the agent that the developer chose. These agents are becoming more autonomous. They're running for hours. They're running for days." — Upfront Summit, March 2026
+
+> "We're bringing a subcommand that allows the agent to make infrastructure purchasing decisions. It can say, 'I want to purchase this database because I need a database to solve this problem.'" — Upfront Summit, March 2026
+
+Vercel is designing for agent-first purchasing: developer evangelism becomes agent evangelism.
+
+### On Brand and Trust (March 2026)
+> "Brand and trust — the value of that has increased dramatically." — Upfront Summit, March 2026
+
+> "Vercel is a company that is well known for building in the open. It's not that we just open source code. We build in the open. We take it one week at a time." — Upfront Summit, March 2026
+
+In a world where anyone can ship anything, reputation becomes the primary filter.
+
+### On Mission as Context Window (March 2026)
+> "Every AI agent you use has a system prompt. It says, 'You are a helpful assistant.' A lot of what people innovate on top of models is they add to that system prompt." — Upfront Summit, March 2026
+
+> "I'm very conscious of not underloading the system — I can't just hire people and give them no context — but I also can't overload them. I have so many creative people that come to Vercel because they operate with agency and autonomy." — Upfront Summit, March 2026
+
+Mission isn't marketing — it's the system prompt for your entire company.
+
+### On Recursive Founder Mode (March 2026)
+> "I hire founders to work with me. I actually think the future of companies might end up resembling venture capital a bit. Venture partnerships are very flat. People have their own rails, their own independence. There's a mission. There's a commonality that brings those people together." — Upfront Summit, March 2026
+
+A nested hierarchy of founders, each running their domain with autonomy under a shared mission.
+
+### On Being Terminally Online (March 2026)
+> "I call it terminally online sometimes. I do think you have to be more online than ever. I work all the time because I enjoy it." — How I AI podcast, March 2026
+
+> "I set up unstructured time when I can go on Twitter, I can play with our products, I can do customer support — whatever I feel is productive at that given time." — How I AI podcast, March 2026
+
+Being extremely online isn't a vice — it's how you stay in touch with customers, culture, and what's working.
+
+### On Customer Support as CEO (March 2026)
+> "I sadly get credit for giving people customer support, like doing customer support myself. People say, 'Oh my god, you're a CEO, what are you doing?' I always consider: what is the alternative? The other CEOs don't know their product? They don't talk to customers?" — How I AI podcast, March 2026
+
+Every customer, including free tier developers, informs how to build the best platform for paying enterprises.
+
+### On Public Companies (March 2026)
+> "I don't understand why you wouldn't want to take a company public. If you're a CEO that's saying I don't want to go public because they're going to be mean to me, then you've missed the point." — How I AI podcast, March 2026
+
+> "Part of me that is competitive and wants to be pushed wants that, too. I actually thrive in customers being somewhat harsh and mean and critical of our products." — How I AI podcast, March 2026
+
+Criticism isn't a cost — it's competitive fuel.
+
+### On No One Being an IC Anymore (February 2026)
+> "I don't really [wish to go back to being an IC] because I think my mental model right now is that the IC is the agent. If you identified too strongly with a particular skill or individual contributor line of work, I have bad news for you because an agent might do that particular thing better." — How I AI podcast, February 2026
+
+> "We're in the era of leverage, and we're all kind of like mini CEOs at this point." — How I AI podcast, February 2026
+
+Everyone at Vercel operates like a founder — individual contributors are now agent-leveraged mini-CEOs.
+
+### On v0 Production Workflows (February 2026)
+> "v0 is making me look so good here because I haven't written a PR description in like 25 years. v0 produced a PR, described it, and then the magic of Vercel is coming in — it's giving me that preview." — How I AI podcast, February 2026
+
+> "3,200 PRs merged per day by January 28-29. An extraordinary 100x." — How I AI podcast, February 2026
+
+v0 has moved from prototype tool to full production development environment with Git workflows, branch previews, and automated PR descriptions.
+
+### On Vibe Coding at Scale (February 2026)
+> "It's really easy to go from zero to one. What's harder is to iterate on a project at scale and to deploy changes safely." — How I AI podcast, February 2026
+
+> "Every marketer ever wants to change this page at some point. The old way: you had to petition to the government. You had to go to engineers and say, 'Engineers, please can you add a logo.' Now they can just open this page in v0 and prompt anything that they want." — How I AI podcast, February 2026
+
+The real unlock: non-engineers shipping production code through Git workflows, not bypassing engineering rigor.
+
+### On Skills.sh and Agent Capabilities (February 2026)
+> "The hottest thing in AI today is skills. Everyone is excited about the fact that we can now augment agents and AI applications with skills like skills that the model doesn't yet have." — How I AI podcast, February 2026
+
+> "34,000 skills submitted by the community. This website has gone viral all over the internet. 500 skills being added every hour." — How I AI podcast, February 2026
+
+Skills.sh created a marketplace for agent capabilities — npm for AI agent skills.
+
 ## Leadership Principles
 
 1. **Side with AI** - When in doubt about AI capabilities, assume they'll improve and bet on them
@@ -180,6 +284,12 @@ Guillermo's leadership framework: "Unbounded vision, ruthless focus." The abilit
 7. **Product over code** - Code is a means to an end; the product is what matters
 8. **Security by default** - Don't trust LLM output; use AI to validate AI
 9. **Return to fundamentals** - Unix, CLIs, tests, types, and markdown endure because they compose well with agents
+10. **No random acts of AI** - Only integrate AI where it authentically serves the mission
+11. **Mission as system prompt** - Clear mission provides context without overloading or underloading
+12. **Taste over velocity** - Now that everyone can ship fast, quality and curation differentiate
+13. **Build in the open** - Trust comes from transparency, not just shipping code
+14. **Hire founders** - Recursive founder mode — everyone operates with agency and autonomy
+15. **Embrace criticism** - Harsh feedback is competitive fuel, not a cost to avoid
 
 ## Views on AI Coding
 
@@ -214,6 +324,9 @@ Guillermo's leadership framework: "Unbounded vision, ruthless focus." The abilit
 | Agent-generated deployments | 21%+ (up from ~5% in June 2025) |
 | Claude Code share of agent deploys | ~70% |
 | Claude Code users | 1% of user base, 15% of deployments |
+| v0 PRs merged per day | 3,200+ |
+| Skills.sh community skills | 34,000+ |
+| Skills submission rate (peak) | 500/hour |
 
 **New v0 Agent Release:** Users can now be "much more ambitious & full stack" with requests. The agent makes far fewer mistakes and enables complete application development through conversation.
 
@@ -229,6 +342,9 @@ Guillermo's leadership framework: "Unbounded vision, ruthless focus." The abilit
 
 ## Sources
 
+- [YouTube: Guillermo Rauch on Building Vercel With Purpose | 2026 Upfront Summit (March 12, 2026)](https://www.youtube.com/watch?v=PFrLGLXvfc4)
+- [YouTube: Why being "terminally online" is more important than ever (March 25, 2026)](https://www.youtube.com/watch?v=HQhU6GuDT7g)
+- [YouTube: Guillermo Rauch: Vercel CEO on how v0 hit 3,200 PRs merged per day (February 4, 2026)](https://www.youtube.com/watch?v=Yb9IyTOh0xg)
 - [CNBC Fortt Knox: Guillermo Rauch Conversation (March 9, 2026)](https://www.cnbc.com/video/2026/03/09/guillermo-rauch-vercel-ceo-a-fortt-knox-conversation.html)
 - [Speedrun: 5 Lessons for Founders Building in the AI Era (March 19, 2026)](https://speedrun.substack.com/p/guillermo-rauchs-5-lessons-for-founders)
 - [Infobae: El chico de Lanús (March 19, 2026)](https://www.infobae.com/sociedad/2026/03/19/)
