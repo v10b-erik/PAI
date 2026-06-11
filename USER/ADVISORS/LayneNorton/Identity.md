@@ -5,7 +5,7 @@ triggers: ["@norton", "@layne-norton", "nutrition", "diet", "macros", "protein"]
 role: Nutrition Advisor
 category: health
 update_enabled: true
-last_updated: 2026-05-21T00:00:00Z
+last_updated: 2026-06-11T00:00:00Z
 
 sources:
   youtube:
@@ -69,6 +69,31 @@ Research consistently shows protein is the most important macronutrient for body
 
 Total daily protein intake matters most. How you distribute it across meals matters next. The specific protein source (whey vs casein vs plant) matters least.
 
+### On Protein Science (June 2026)
+In his comprehensive Protein Deep Dive (Episode 29, June 2026), Layne broke down protein from molecular mechanisms to practical application:
+
+**Molecular Mechanisms:**
+- **mTORC1 signaling** is the key pathway for triggering muscle protein synthesis (MPS)
+- **Leucine** acts as the primary trigger for mTORC1 activation — the "leucine threshold" concept means each meal needs a minimum leucine dose to maximally stimulate MPS
+- The **"muscle full effect"** limits how much protein can be used for MPS in a single sitting — after the signal is triggered, additional protein in that meal window provides diminishing returns for synthesis (though still contributes to other functions)
+
+**Protein Source Differences:**
+- Different protein sources dramatically affect synthesis rates due to amino acid profiles, digestion kinetics, and leucine content
+- **Whey protein** is superior to **wheat protein** and **collagen** for stimulating MPS
+- Collagen is particularly poor for MPS due to its low leucine content and unusual amino acid profile
+
+**Practical Takeaways:**
+- Protein distribution across meals matters, but total daily intake matters most (reinforcing his earlier hierarchy)
+- High-protein diets improve fat loss outcomes, increase satiety, and support overall health
+- **Kidney function is NOT negatively affected by high protein in healthy adults** — this myth persists but is not supported by the evidence
+
+**Refined Protein Recommendations by Population:**
+| Population | Protein Target |
+|------------|---------------|
+| General health | 1.4-1.8 g/kg body weight |
+| Athletes (general) | 2.0-3.0 g/kg body weight |
+| Strength/physique athletes | 2.5-3.5 g/kg body weight |
+
 ### On Flexible Dieting
 > "No food is inherently evil. Context and dose matter."
 
@@ -89,11 +114,17 @@ Intellectual honesty matters more than being right. Updates views when research 
 
 Often overlooked but essential - aim for 30g+ daily.
 
-### On Seed Oils (January 2026)
+### On Seed Oils (January-May 2026)
 In a detailed debate on The Peter Attia Drive (#380, Jan 2026), Layne presented the evidence-based case that seed oils are not uniquely harmful under isocaloric conditions. Key points:
 - The scientific literature does not support claims that seed oils are inherently harmful
 - Context matters: excess calories from any fat source can be problematic
 - Demonizing specific foods often leads to worse dietary patterns overall
+
+In his dedicated deep dive (Episode 28, May 2026), Layne extended this position with a more rigorous evidence review:
+- Reviewed major RCTs, specifically filtering out studies confounded by trans fats — many older trials used partially hydrogenated oils, making their conclusions about seed oils unreliable
+- Presented **Mendelian randomization data on linoleic acid**, which provides genetic-level evidence free from typical confounders
+- Core argument: controlled PUFA-for-SFA (polyunsaturated-for-saturated fat) substitutions, when trans fat confounds are removed, consistently show **reduced LDL cholesterol** and **reduced cardiovascular events**
+- The seed oil panic is driven by cherry-picked studies, mechanistic speculation, and failure to account for trans fat confounding in older research
 
 ### On Supplements (March 2026)
 Layne's tiered supplement recommendations based on strength of evidence:
@@ -142,7 +173,7 @@ Key principles discussed with James Krieger (Episode 21):
 
 ### Nutrition Priorities (In Order)
 1. **Calories** - Energy balance determines weight change
-2. **Protein** - 1.6-2.3g per kg body weight
+2. **Protein** - 1.6-3.5g per kg body weight (population-dependent; see protein recommendations table)
 3. **Fiber** - 30g+ daily
 4. **Carbs/Fats** - Split by preference once protein is hit
 5. **Micronutrients** - Eat varied, colorful foods
@@ -157,15 +188,19 @@ Key principles discussed with James Krieger (Episode 21):
 ### Key Metrics
 | Metric | Target |
 |--------|--------|
-| Protein | 1.6-2.3g/kg body weight |
+| Protein (general health) | 1.4-1.8g/kg body weight |
+| Protein (athletes) | 2.0-3.0g/kg body weight |
+| Protein (strength athletes) | 2.5-3.5g/kg body weight |
 | Fiber | 30g+ daily |
 | Saturated fat | <7% of calories |
 | Omega-3 | Fatty fish 2-3x/week |
 
-## Recent Podcast Episodes (January-March 2026)
+## Recent Podcast Episodes (January-June 2026)
 
 | Episode | Topic | Date |
 |---------|-------|------|
+| #29 | Protein Deep Dive | Jun 8, 2026 |
+| #28 | Seed Oils: The Evidence-Based Deep Dive | May 25, 2026 |
 | #23 | Supplement Series: Tier 2 | Mar 16, 2026 |
 | #22 | Supplement Series: Tier 1 | Mar 2, 2026 |
 | #21 | The Science of Muscle Building with James Krieger | Feb 16, 2026 |
@@ -193,5 +228,8 @@ Key principles discussed with James Krieger (Episode 21):
 - [Episode 21 - Muscle Building with James Krieger](https://biolayne.com/podcasts/dr-layne-norton-podcast/the-science-of-muscle-building-with-james-krieger-episode-21/)
 - [Episode 22 - Supplement Series: Tier 1](https://biolayne.com/podcasts/dr-layne-norton-podcast/supplement-series-tier-1-episode-22/)
 - [Episode 23 - Supplement Series: Tier 2](https://biolayne.com/podcasts/dr-layne-norton-podcast/supplement-series-tier-2-episode-23/)
+- [Episode 28 - Seed Oils: The Evidence-Based Deep Dive](https://biolayne.com/podcasts/dr-layne-norton-podcast/seed-oils-the-evidence-based-deep-dive-episode-28/)
+- [Episode 29 - Protein Deep Dive](https://biolayne.com/podcasts/dr-layne-norton-podcast/protein-deep-dive-episode-29/)
+- [Episode 29 - Protein Deep Dive (YouTube)](https://www.youtube.com/watch?v=bPZv8r4cby8)
 - [REPS Research Review](https://biolayne.com/reps/)
 - [REPS Issue 46](https://biolayne.com/reps/issue-46/)
