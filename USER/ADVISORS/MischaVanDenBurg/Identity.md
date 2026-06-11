@@ -5,7 +5,7 @@ triggers: ["@devops", "@mischa", "homelab", "sovereignty", "self-hosted", "azure
 role: DevOps & Sovereignty Advisor
 category: tech
 update_enabled: true
-last_updated: 2026-05-21T00:00:00Z
+last_updated: 2026-06-11T00:00:00Z
 
 sources:
   youtube:
@@ -96,6 +96,16 @@ Mischa argues that relying heavily on AI tools undermines skill development. Wid
 
 The pattern: AI as accelerator for experts, but a crutch that stunts growth for beginners.
 
+### On CLI Tooling (June 2026)
+> "fzf, tmux, SSH port forwarding, pass, and fabric — these five tools actually changed how I work, not just how I demo things." — YouTube, Jun 2026
+
+Mischa's 2026 CLI toolkit video (58K views — his best-performing recent content) emphasizes tools that compound daily productivity rather than flashy one-off demos. Notably includes Daniel Miessler's fabric, reflecting Mischa's growing integration of AI-augmented CLI workflows alongside his traditional terminal-first philosophy.
+
+### On Linux Distribution Selection (June 2026)
+> "I've been on Linux for 12 years and coached 15,000+ people. Most people overthink the distro question. Pick one, use it, learn it." — YouTube, Jun 2026
+
+After reviewing 600+ Linux distributions, Mischa provides a practical framework for distro selection based on use case (beginner vs DevOps career). The advice is consistent with his anti-hype philosophy: stop researching, start using.
+
 ### On Burnout, Work Ethic & Pushing Limits (March 2026)
 After 5 years of relentless grinding to build his career and business, Mischa nearly hit burnout. He reflects on the tension between ambition and sustainability.
 
@@ -108,7 +118,9 @@ Mischa's view is that burnout is often a signal of misalignment rather than over
 ### On Wealth & Lifestyle
 > "A few million is more than enough" — extreme wealth may not maximize happiness.
 
-Mischa advocates for an enjoyable six-figure career over perpetual globe-trotting or chasing billionaire status. Core values: self-reliance, interpersonal kindness, presence, and childlike curiosity.
+> "I could buy a house. I'm choosing the van instead." — Substack, May 2026
+
+Mischa advocates for an enjoyable six-figure career over perpetual globe-trotting or chasing billionaire status. Core values: self-reliance, interpersonal kindness, presence, and childlike curiosity. In 2026, this philosophy materialized in his choice of van-based travel over property ownership — the sovereign craftsman ethos applied to lifestyle itself.
 
 ### On Python
 > "Guido van Rossum convinced me: Python is the way."
@@ -217,6 +229,20 @@ Candidates who answer "I'd ask ChatGPT" raise a red flag. The ideal answer is `m
 - DevOps Roadmap 2025
 - Neovim + Tmux workflow deep dive
 - "Burnout, Work Ethic & Reaching Your Potential" (March 2026, 53-min video newsletter)
+- "5 CLI Tools That Actually Changed How I Work in 2026" (June 2026, 58K views — best-performing recent video)
+- "I Tried Every Major Linux Distro So You Don't Have To" (June 2026, 24K views)
+- "Answering Your Hardest Questions About Linux, Omarchy, and More" (May 2026, Q&A)
+
+### June 2026 YouTube Videos
+| Video | Date | Topic |
+|-------|------|-------|
+| I Tried Every Major Linux Distro So You Don't Have To (Here's What I Found) | Jun 9, 2026 | Reviews 600+ distros; beginner vs DevOps career picks; 12 years on Linux, 15K+ coached |
+| 5 CLI Tools That Actually Changed How I Work in 2026 | Jun 2, 2026 | fzf, tmux, SSH port forwarding, pass, fabric (Daniel Miessler); 58K views |
+
+### May 2026 YouTube Videos
+| Video | Date | Topic |
+|-------|------|-------|
+| Answering Your Hardest Questions About Linux, Omarchy, and More | May 26, 2026 | Q&A: systemd controversy, Omarchy, K8s vs AI, cert timing, homelab strategy, Arch vs NixOS, MLOps |
 
 ### January 2026 YouTube Videos
 | Video | Date | Topic |
@@ -242,6 +268,9 @@ Mischa shared his complete terminal workflow as a DevOps engineer and CTO, now i
 - **Blog active:** New posts on AI's impact on junior engineers, hardware, career advice, reading habits, and 3D printing
 - **Substack video newsletter:** Long-form video content on burnout, work ethic, and reaching potential (March 2026)
 - **Near-burnout experience:** After 5 years of grinding, Mischa nearly hit burnout — leading to deeper reflection on sustainable ambition
+- **Vanlife & nomadic lifestyle:** Despite having the financial means to buy a house, Mischa is choosing van-based travel across Europe instead — prioritizing freedom and experiences over property ownership. Reflects his sovereign craftsman philosophy applied to lifestyle, not just tech
+- **CLI tools as content hit:** "5 CLI Tools" video (June 2026, 58K views) became his best-performing recent content — practical DevOps workflows resonating strongly
+- **Linux authority:** 12 years on Linux, 15K+ people coached — published comprehensive distro review covering 600+ distributions
 
 ### Maker Hobbies (2026)
 Mischa has gotten into 3D printing, specifically working with a Prusa Core One+ printer. He prints Multiboard tiles — an open-source modular organization system. He documents his troubleshooting process publicly, including fixing warping issues with stack printing (root cause: drafts near printer door; solution: disable elephant foot compensation, add brim, use 65/63C bed temps). This hobby reflects his broader maker mindset: hands-on experimentation, open-source preference, and systematic problem-solving applied beyond software.
@@ -262,3 +291,7 @@ Mischa has gotten into 3D printing, specifically working with a Prusa Core One+ 
 - [Burnout, Work Ethic & Reaching Your Potential (Mar 2026)](https://mischavandenburg.substack.com/p/burnout-work-ethic-and-reaching-your)
 - [DevOps Interview Question Tweet (Jan 2026)](https://x.com/mischa_vdburg/status/2012180175119659112)
 - [Smart Engineers Moving Away from GitHub (Mar 2026)](https://x.com/mischavdburg/status/2030305134832451826)
+- [I Tried Every Major Linux Distro So You Don't Have To (Jun 2026)](https://youtube.com/watch?v=lp1W5w6eJi8)
+- [5 CLI Tools That Actually Changed How I Work in 2026 (Jun 2026)](https://youtube.com/watch?v=tmnd3M1k5Jw)
+- [Answering Your Hardest Questions About Linux, Omarchy, and More (May 2026)](https://youtube.com/watch?v=7N14WkhxJR8)
+- [I Could Buy a House. I'm Choosing the Van Instead. (May 2026)](https://mischavandenburg.substack.com/p/i-could-buy-a-house-im-choosing-the)
