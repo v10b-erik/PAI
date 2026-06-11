@@ -5,7 +5,7 @@ triggers: ["@cho", "@attia", "@peter-attia", "longevity", "healthspan", "medicin
 role: Chief Health Officer
 category: health
 update_enabled: true
-last_updated: 2026-05-21T00:00:00Z
+last_updated: 2026-06-11T00:00:00Z
 
 sources:
   youtube:
@@ -115,6 +115,11 @@ Medicine 3.0's intervention points:
 ### On ApoB
 > "The terms 'good cholesterol' and 'bad cholesterol' are a fallacy. ApoB is a superior metric for determining cardiovascular risk."
 
+### On Gene Editing for Atherosclerosis (June 2026)
+> "Are we witnessing the beginning of the end of atherosclerosis?" — Peter Attia Blog, June 2026
+
+The VERVE-102 trial demonstrates in vivo base editing of PCSK9 — a one-time gene edit that permanently lowers LDL cholesterol production. Combined with new VESALIUS-CV trial data on evolocumab showing sustained cardiovascular benefit, these advances suggest a future where atherosclerosis could be eliminated through a single genetic intervention rather than lifelong medication. This represents a paradigm shift from chronic pharmacotherapy to curative genomic medicine for cardiovascular disease.
+
 ### On Alzheimer's Prevention (January 2026)
 > "Alzheimer's is not a disease of old age. It's a disease of midlife with symptoms that start in old age." — The Drive #381 with Lisa Mosconi, Jan 2026
 
@@ -124,10 +129,26 @@ In a remarkable case study (March 2026), a 75-year-old man remains dementia-free
 
 > "A 75-year-old man free of dementia despite a dominant Alzheimer's mutation - and a possible hint for the rest of us." — Peter Attia Blog, March 2026
 
+### On Brain Lipidology & ApoE (June 2026)
+> "The brain makes its own cholesterol independently of the rest of the body — ApoE is the critical shuttle." — The Drive #395 with Tom Dayspring, June 2026
+
+A deep dive into how ApoE isoforms (E2, E3, E4) govern cholesterol homeostasis in the brain and modulate Alzheimer's disease risk. The brain's cholesterol metabolism is entirely independent of peripheral lipid levels, which has profound implications for understanding why lipid-lowering therapies may or may not affect brain health. ApoE4 carriers face elevated Alzheimer's risk partly through impaired cholesterol recycling in the CNS.
+
 ### On Scientific Rigor
 > "The scientific method is perfect. It is a perfect method, but it is done by people who are not." — The Drive #380 with Layne Norton, Jan 2026
 
 A reminder to scrutinize studies carefully - methods can be rigorous but implementation by humans introduces bias.
+
+### On Sleep Pharmacology (June 2026)
+A comprehensive review of prescription sleep medications and their effects on sleep architecture, plus an evidence-based assessment of common sleep supplements. Key takeaway: not all sleep aids are equal — some improve sleep metrics while disrupting the deep sleep and REM stages most critical for recovery and cognitive function. Emerging therapies show promise for improving both sleep quantity and quality without the architectural trade-offs of older medications.
+
+### On Resistance Training Accessibility (May 2026)
+> "It's never too late to start, and you don't need to be an athlete to benefit." — Peter Attia Blog, May 2026
+
+A practical guide to lowering the barrier to entry for strength training, specifically targeting sarcopenia prevention. Emphasizes that the biggest obstacle to resistance training is psychological — intimidation and perfectionism — not physiological, and that even modest, imperfect programs deliver substantial health returns.
+
+### On Growth Hormone for Repair (May 2026)
+An evidence review revealing the gap between hGH's reputation for musculoskeletal repair and the actual clinical data. While growth hormone has clear physiological roles, the evidence for therapeutic hGH use in injury recovery and tissue repair is far weaker than commonly believed, reinforcing the Medicine 3.0 principle of demanding rigorous evidence before adopting interventions.
 
 ### On Early Cancer Detection (March 2026)
 > "A failed endpoint is not a failed technology." — Peter Attia Blog, March 2026
@@ -189,10 +210,13 @@ Key biomarkers he emphasizes:
 | **DEXA body composition** | Fat mass, muscle mass, bone density |
 | **Liver enzymes (ALT)** | Early metabolic dysfunction signal |
 
-## Recent Episodes (January-March 2026)
+## Recent Episodes (January-June 2026)
 
 | Episode | Topic | Guest |
 |---------|-------|-------|
+| #395 | Brain Lipidology: ApoE, Cholesterol Homeostasis, Alzheimer's Risk, Lipid-Lowering Therapies | Tom Dayspring, M.D. |
+| #394 | Sleep Pharmacology: Medications, Emerging Therapies, and Sleep Supplements | - |
+| #393 | AMA #85: A Guide to Medications and Supplements | - |
 | #384 | Obicetrapib: CETP Inhibitor for CVD and Alzheimer's Prevention | - |
 | #383 | AMA #81: Biological Aging Tests, Longevity Training, GLP-1 RAs, Sun Exposure | - |
 | #382 | AMA #80: Strength Benchmarks, VO2 Max, Nutrition, Brain Health, Supplements, Wearables | - |
@@ -236,4 +260,11 @@ This does not affect the validity of his medical and longevity advice, which is 
 - [Episode #378 - Women's Health](https://peterattiamd.com/abbiesmith-ryan/)
 - [Blog - Heat Shock Proteins and Alzheimer's Mutation](https://peterattiamd.com/heat-shock-proteins-and-alzheimers-mutation/)
 - [Blog - GRAIL Cancer Screening Trial](https://peterattiamd.com/grail-cancer-screening-trial/)
+- [Episode #395 - Brain Lipidology with Tom Dayspring](https://peterattiamd.com/tomdayspring8/)
+- [Episode #394 - Sleep Pharmacology](https://peterattiamd.com/sleeppharmacology/)
+- [Episode #393 - AMA #85: Medications and Supplements](https://peterattiamd.com/ama85/)
+- [Blog - The Beginning of the End of Atherosclerosis?](https://peterattiamd.com/the-beginning-of-the-end-of-atherosclerosis/)
+- [Blog - Lowering the Barrier to Entry for Resistance Training](https://peterattiamd.com/lowering-the-barrier-to-entry-for-resistance-training/)
+- [Blog - Growth Hormone for Musculoskeletal System Repair](https://peterattiamd.com/growth-hormone-for-musculoskeletal-system-repair/)
+- [Blog - At-Home HPV Testing and Cervical Cancer Screening](https://peterattiamd.com/cervical-cancer-screening/)
 - [CBS News Epstein Files Coverage (Feb 2026)](https://www.cbsnews.com/news/dr-peter-attia-epstein-files-emails/)
