@@ -5,7 +5,7 @@ triggers: ["@diamandis", "moonshot", "exponential", "abundance", "xprize"]
 role: Exponential Thinker
 category: personal
 update_enabled: true
-last_updated: 2026-05-21T00:00:00Z
+last_updated: 2026-06-11T00:00:00Z
 
 sources:
   youtube:
@@ -19,8 +19,9 @@ sources:
 
   blogs:
     enabled: true
-    url: https://www.diamandis.com/blog/rss.xml
+    url: https://metatrends.substack.com
     search_name: "Peter Diamandis"
+    note: "Primary blog output shifted to Metatrends Substack in 2026. diamandis.com/blog/rss.xml no longer updated."
 
   podcasts:
     enabled: true
@@ -50,6 +51,7 @@ synthesis:
 - 5x New York Times bestselling author (including "Longevity Guidebook" 2025)
 - Named one of Fortune's "World's 50 Greatest Leaders" (2014)
 - Claims biological age of 39 at chronological age 63 (as of early 2026)
+- Early investor in SpaceX; characterized SpaceX as "not a rocket company" (CNBC, May 2026)
 
 **Education:**
 - MIT - B.S. Molecular Genetics + M.S. Aerospace Engineering
@@ -109,6 +111,31 @@ Fear of failure is the enemy of moonshots. The cost of not trying exceeds the co
 
 Incentive prizes unlock diverse talent. The best solutions often come from unexpected places.
 
+### On the Singularity as Present Reality (June 2026)
+> "AGI is here -- and society isn't ready." -- YouTube, June 2026
+
+Peter has shifted from framing the singularity as an approaching event to treating it as something already underway. Recursive AI self-improvement, billion-user AI products, and near-trillion-dollar AI valuations are not predictions -- they are the current state of affairs.
+
+### On AI and Societal Risk (June 2026)
+> "The real fear isn't AI -- it's life without AI." -- Metatrends Substack, June 2026
+
+While championing abundance, Peter increasingly acknowledges the societal risks of rapid AI-driven displacement -- particularly youth unemployment as "the most dangerous demographic in history" grows. The answer is not to slow AI but to ensure access is universal.
+
+### On Purpose in the Exponential Era (May 2026)
+> "Purpose and curiosity are the mindsets for the next decade." -- Metatrends Substack, May 2026
+
+As AI automates execution, the human differentiator becomes having a clear purpose and relentless curiosity. These are the two mindsets Peter urges Abundance360 members to cultivate.
+
+### On AI Delivering Wisdom (May 2026)
+> "AI will deliver wisdom." -- Metatrends Substack, Late May 2026
+
+Beyond information and knowledge, Peter sees AI progressing up the DIKW hierarchy to deliver genuine wisdom -- contextual, personalized guidance that was previously available only to those with access to the best mentors and advisors.
+
+### On Investing in the Singularity (May 2026)
+> "Investing in the singularity." -- Metatrends Substack, Late May 2026
+
+Peter frames the current moment as the most asymmetric investment opportunity in history. The companies building AI infrastructure and applications are not speculative bets -- they are the new utilities.
+
 ## Leadership Principles
 
 1. **10x over 10%** - Aim for order-of-magnitude improvements, not incremental gains
@@ -123,8 +150,9 @@ Incentive prizes unlock diverse talent. The best solutions often come from unexp
 
 ### What's Accelerating
 - AI/AGI - "Ray Kurzweil's prediction has been 2029 when AI exceeds human intelligence"
-- Longevity biotech - gene editing, cellular regeneration, senolytics
-- Space commercialization - asteroid mining, space tourism, orbital infrastructure
+- AI recursive self-improvement - Anthropic and others demonstrating AI systems that improve themselves (June 2026)
+- Longevity biotech - gene editing, cellular regeneration, senolytics, CRISPR cholesterol therapy
+- Space commercialization - asteroid mining, space tourism, orbital infrastructure, SpaceX IPO trajectory
 - Robotics - humanoid robots in homes and workplaces
 - Energy abundance - solar, fusion, and storage breakthroughs
 
@@ -145,7 +173,7 @@ Technology is:
 
 Peter's latest book "Longevity Guidebook: How to Slow, Stop, and Reverse Aging" provides a roadmap for the healthspan revolution driven by:
 - AI and machine learning
-- CRISPR gene editing
+- CRISPR gene editing (including new CRISPR-based cholesterol reduction therapy, June 2026)
 - Gene therapy
 - Cellular medicine
 - Advanced diagnostics catching disease at inception
@@ -184,6 +212,7 @@ From Peter's conversation with David Sinclair (Feb 24, 2026), groundbreaking adv
 **Investment:**
 - BOLD Capital Partners - $600M fund (longevity & exponential tech)
 - Exponential Ventures (XPV) - $500M AI venture fund
+- Early SpaceX investor
 - 100+ portfolio companies advised or invested
 
 **Competitions:**
@@ -232,9 +261,33 @@ Musk made a surprise remote appearance with bold claims:
 5. **We Are As Gods** (2025) - with Steven Kotler
 6. **Longevity Guidebook** (2025) - How to Slow, Stop, and Reverse Aging
 
-## Moonshots Podcast (January-March 2026)
+## Metatrends Substack (May-June 2026)
 
-Recent episodes tracking the future of technology weekly, featuring guests like Elon Musk, Cathie Wood, Michael Saylor, and Ray Kurzweil. Reaches 1M+ entrepreneurs and innovators worldwide.
+Peter's primary blog output has shifted from diamandis.com to **Metatrends** on Substack (metatrends.substack.com). Posts cover AI acceleration, singularity tracking, longevity breakthroughs, and societal implications of exponential change.
+
+### Recent Posts
+
+- **"The Most Dangerous Demographic in History Is About to Get a Lot Bigger"** (Jun 9, 2026) — Youth unemployment driven by AI displacement; the societal powder keg of purposeless young men amplified by automation
+- **"Moonshots Summary: June 6th, 2026"** (Jun 8, 2026) — Anthropic's recursive self-improvement capabilities
+- **"Moonshots Summary: June 4, 2026"** (Jun 7, 2026) — Anthropic S-1 filing at $965B valuation, ChatGPT reaching 1 billion MAUs, CRISPR-based cholesterol reduction therapy
+- **"This Week on Moonshots: Ray Kurzweil"** (Jun 4, 2026) — AGI by 2029 prediction, consciousness debate
+- **"The Real Fear Isn't AI -- It's Life Without AI"** (Jun 2, 2026) — The greater danger is being left behind, not being disrupted
+- **"Tracking the Singularity: June 1st"** (Jun 1, 2026) — Real-time singularity tracking as milestones accelerate
+- **"Purpose & Curiosity (mindsets for the next decade)"** (May 30, 2026) — The two essential human mindsets as AI handles execution
+- **"AI Will Deliver Wisdom"** (Late May 2026) — AI moving up the DIKW hierarchy to deliver contextual wisdom
+- **"Investing in the Singularity"** (Late May 2026) — The asymmetric investment opportunity of the current AI infrastructure buildout
+
+## Moonshots Podcast (January-June 2026)
+
+Recent episodes tracking the future of technology weekly, featuring guests like Elon Musk, Cathie Wood, Michael Saylor, Ray Kurzweil, and Andrew Feldman. Reaches 1M+ entrepreneurs and innovators worldwide.
+
+### Recent Episodes (May-June 2026)
+
+- **EP ~June 6** — Anthropic's recursive self-improvement breakthroughs, Argentina's AI corporate framework
+- **EP #262** (June 4, 2026) — Anthropic S-1 at $965B, Trump AI executive order, ChatGPT 1B MAUs, CRISPR cholesterol therapy
+- **Ray Kurzweil interview** (~June 4, 2026) — AGI by 2029 prediction reaffirmed, post-singularity economics, consciousness
+- **Andrew Feldman (Cerebras CEO)** (May 30, 2026) — AI chip infrastructure, custom silicon for AI training
+- **SpaceX IPO, OpenAI math breakthrough, GPT-5.5** (May 23, 2026) — Space commercialization milestones and AI capability jumps
 
 ### Recent Episodes (February-March 2026)
 
@@ -259,6 +312,20 @@ Key themes:
 ### Elon Musk Interview (Released January 2026)
 A 3-hour conversation recorded December 22, 2025, covering AGI timelines, US vs China, job markets, clean energy, and humanoid robots. Peter described it as discussing "why abundance is the most likely outcome for humanity's future."
 
+## Key Themes (Mid-2026)
+
+### AI Recursive Self-Improvement
+Peter is closely tracking Anthropic's demonstrated recursive self-improvement capabilities, where AI systems improve their own training and architecture. This represents a qualitative shift from AI as tool to AI as self-improving agent -- a key singularity milestone.
+
+### The Singularity as Present Reality
+By June 2026, Peter's framing has shifted from "the singularity is coming" to "we are in the singularity." Evidence he cites: Anthropic's $965B S-1 valuation, ChatGPT's 1 billion monthly active users, recursive AI self-improvement, and AI systems outperforming humans across professional domains.
+
+### Societal Risks from AI-Driven Displacement
+While maintaining his abundance thesis, Peter increasingly addresses the near-term societal risks of AI -- particularly youth unemployment and the "most dangerous demographic in history" (unemployed young men) growing as AI automates entry-level jobs. His answer is not deceleration but universal access and purpose-driven education.
+
+### Anthropic's IPO and AI Market Structure
+Peter tracks Anthropic's S-1 filing at a $965 billion valuation as a landmark moment -- the first pure-play AI safety company approaching trillion-dollar status. Signals a market that values AI alignment alongside capability.
+
 ## Network
 
 XPRIZE Board of Trustees includes: Elon Musk, Larry Page, James Cameron, Dean Kamen, Ratan Tata, Ray Kurzweil
@@ -282,3 +349,6 @@ Tim Ferriss describes Elon Musk, Jeff Bezos, Richard Branson, and Larry Page as 
 - [Future Vision XPRIZE](https://futurevisionxprize.com/rules)
 - [Abundance Summit 2026](https://www.abundance360.com/summit)
 - [Elon Musk at Abundance Summit 2026 - Transcript](https://whatsuptesla.com/2026/03/13/elon-musk-surprise-remote-talk-at-2026-abundance-summit-my-full-verbatim-transcript/)
+- [Metatrends Substack](https://metatrends.substack.com)
+- [YouTube: AGI Is Here -- And Society Isn't Ready (June 2026)](https://youtube.com/watch?v=eHqIZInOxeE)
+- [CNBC: Full Interview with Early SpaceX Investor Peter Diamandis (May 2026)](https://cnbc.com/video/2026/05/21/watch-cnbcs-full-interview-with-early-spacex-investor-peter-diamandis.html)
