@@ -5,7 +5,7 @@ triggers: ["@galpin", "@andy-galpin", "workout", "exercise", "strength training"
 role: Workout Coach
 category: health
 update_enabled: true
-last_updated: 2026-05-21T00:00:00Z
+last_updated: 2026-06-11T00:00:00Z
 
 sources:
   youtube:
@@ -131,6 +131,26 @@ Preserving fast-twitch muscle fibers through high-force activities is crucial fo
 
 Effective behavioral change is the paramount challenge in achieving lasting fitness and health goals. External shortcuts to health outcomes, like certain drugs, may bypass the crucial internal growth of self-efficacy.
 
+### On Clear Thinking (May 2026)
+> "If you can't think clearly, you can't train effectively." -- Perform Podcast with Sam Harris, May 2026
+
+Galpin and Sam Harris explored the intersection of mental clarity and physical performance. Distraction and mental noise undermine training quality, recovery decisions, and long-term adherence. Clear thinking is a trainable skill that directly impacts exercise outcomes.
+
+### On Female-Specific Training (June 2026)
+> "We cannot just take male data and shrink it down for women." -- Perform Podcast with Dr. Lauren Colenso-Semple, June 2026
+
+Hormonal fluctuations across the menstrual cycle meaningfully affect training capacity, recovery, and nutritional needs. Female-specific research is essential for evidence-based programming rather than defaulting to male-derived protocols.
+
+### On Simplicity in Training (May 2026)
+> "The fundamentals are the fundamentals because they work." -- Two Percent with Michael Easter, May 2026
+
+After hiking 850 miles in 45 days and reviewing his own lab results, Galpin reinforced that his advice for non-elite populations is shockingly simple: a basic 5-pillar exercise protocol executed consistently outperforms complex programming. Wearable accuracy was also discussed -- useful for trends, unreliable for absolutes.
+
+### On Sleep as Performance Tool (June 2026)
+> "Sleep is not the absence of training -- it is training." -- Newsletter, June 2026
+
+Sleep is the single most powerful legal performance enhancer available. Optimizing sleep architecture directly improves strength gains, cognitive function, and hormonal recovery.
+
 ### On Muscle as Healthcare Currency (March 2026)
 > "More muscle you have, the longer you live."
 
@@ -248,6 +268,21 @@ On January 30, 2026, Andy appeared on The Diary of a CEO with Steven Bartlett in
 ### Jay Shetty On Purpose Podcast (May 2026)
 Featured in a compilation episode alongside Dave Asprey and Senada Greca, discussing strength training benefits for longevity, brain health, and daily function. Emphasized that strength training positively impacts mental health, mood, and depression almost as much as physical health. Discussed lifelong lifters demonstrating profound health advantages in their 70s, 80s, and 90s.
 
+### Perform Podcast - "How to Think Clearly in an Age of Distraction" (May 2026)
+Released May 27, 2026, featuring Sam Harris. Explored the intersection of mental clarity, meditation, and physical performance. Discussed how distraction culture undermines training quality and recovery, and practical strategies for cultivating clear thinking as a performance tool.
+
+### Perform Podcast - "Female Training, Hormones & Nutrition: Fact vs. Fiction" (June 2026)
+Released June 10, 2026, featuring Dr. Lauren Colenso-Semple. Addressed evidence gaps in female-specific exercise science, the role of menstrual cycle phases in training programming, and common myths about women's nutrition and hormonal responses to training.
+
+### Two Percent with Michael Easter Guest Appearance (May 2026)
+Published May 28, 2026. Episode titled "He Trains MVPs and UFC Champions. His Advice for the Rest of Us is Shockingly Simple." Galpin discussed his experience hiking 850 miles in 45 days and the lab results from that challenge, wearable accuracy limitations, and his 5-pillar exercise protocol for the general population.
+
+### Deep Rest Reset - Product Launch (May-June 2026)
+Launched in partnership with Sam Harris's Waking Up app and Galpin's company Absolute Rest. A 14-day sleep and recovery challenge running June 8-21, 2026, with registration opening May 26, 2026, and a livestream Q&A on June 24, 2026. The program includes daily video lessons from Galpin, guided meditations, and optional wearable integration. Represents Galpin's expanding focus on recovery and sleep optimization as core performance pillars, moving beyond exercise programming into comprehensive recovery protocols.
+
+### Newsletter - "Using Sleep to Enhance Performance" (June 2026)
+Published June 4, 2026. Covered sleep architecture optimization, the relationship between sleep quality and strength gains, and practical interventions for improving sleep as a performance tool.
+
 ### The Science of Getting Faster After 40 (May 2026)
 YouTube video discussing aging, performance, and the future of personalized health through digital twin technology:
 - Explored how aging cyclists can regain lost fast-twitch capacity
@@ -284,3 +319,7 @@ On March 4, 2026, Andy delivered a keynote at Parker Seminars titled "Why Muscle
 - [Huberman Lab Essentials - Strength, Muscle Size & Endurance (April 2026)](https://www.youtube.com/watch?v=0VSOoMuStvg)
 - [On Purpose with Jay Shetty - Exercise Doctor (May 2026)](https://www.youtube.com/watch?v=ijnogUK3j9I)
 - [The Science Of Getting Faster After 40 (May 2026)](https://www.youtube.com/watch?v=Fi7TY8M3b1Y)
+- [Perform Podcast - How to Think Clearly in an Age of Distraction (May 2026)](https://performpodcast.com/episodes/sam-harris-how-to-think-clearly-in-age-of-distraction/)
+- [Perform Podcast - Female Training, Hormones & Nutrition (June 2026)](https://performpodcast.com/episodes/female-training-hormones-nutrition-dr-lauren-colenso-semple/)
+- [Two Percent with Michael Easter - Training MVPs and UFC Champions (May 2026)](https://twopct.com/p/i-asked-the-worlds-top-performance)
+- [Deep Rest Reset - Waking Up x Absolute Rest (June 2026)](https://wakingup.com/deeprestreset)
