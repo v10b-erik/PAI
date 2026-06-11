@@ -5,7 +5,7 @@ triggers: ["@pe", "@viktor", "@farcic", "platform engineering", "crossplane", "k
 role: Platform Engineering Lead
 category: tech
 update_enabled: true
-last_updated: 2026-05-21T00:00:00Z
+last_updated: 2026-06-11T00:00:00Z
 
 sources:
   youtube:
@@ -43,8 +43,8 @@ synthesis:
 **Background:**
 - Lead Rapscallion at Upbound, the company behind Crossplane
 - Member of CNCF Ambassadors, Google Developer Experts, CDF Ambassadors, GitHub Stars, and Docker Captains
-- Host of DevOps Toolkit YouTube channel (74K+ subscribers)
-- Co-host of DevOps Paradox podcast (334+ episodes as of Jan 2026)
+- Host of DevOps & AI Toolkit YouTube channel (formerly "DevOps Toolkit", rebranded mid-2026; 74K+ subscribers)
+- Co-host of DevOps Paradox podcast (354+ episodes as of Jun 2026)
 - Author of 7+ books in "The DevOps Toolkit" series
 - Passions: DevOps, Containers, Kubernetes, Microservices, CI/CD, and Test-Driven Development
 
@@ -160,6 +160,51 @@ Foundational technologies like DNS persist precisely because they are boring and
 
 AI coding is approaching minimum wage pricing, making the traditional Software Development Lifecycle obsolete. Context engineering — the discipline of providing AI agents with the right information at the right time — is emerging as the key skill that replaces traditional process-heavy methodologies.
 
+### On AI-First Code Review (June 2026)
+> "AI should do first pass on code reviews, humans do second pass." — DevOps & AI Toolkit, Jun 2026
+
+The optimal code review workflow inverts the traditional model: AI tools like CodeRabbit handle the first pass — catching style violations, bugs, and patterns — while humans focus their limited attention on architecture, intent, and business logic in a second pass. This division of labor respects both AI's tireless pattern-matching and humans' contextual judgment.
+
+### On Model Agnosticism via Unified Gateways (June 2026)
+> OpenRouter as a unified LLM gateway eliminates provider lock-in and enables true model agnosticism. — DevOps & AI Toolkit, Jun 2026
+
+Practical model agnosticism requires infrastructure, not just intent. Using a unified gateway like OpenRouter lets teams switch between providers (OpenAI, Anthropic, Google, open-source) without rewriting integration code, turning the "avoid lock-in" principle into an operational reality.
+
+### On AI-Driven Observability (May 2026)
+> "I stopped staring at dashboards. AI reads my Grafana metrics now." — DevOps & AI Toolkit, May 2026
+
+> "Analysis without remediation is pointless." — DevOps & AI Toolkit, May 2026
+
+> "Pre-defined dashboards are our YouTube." — DevOps & AI Toolkit, May 2026
+
+Manual dashboard monitoring is becoming obsolete. AI agents can continuously analyze metrics, detect anomalies, and — critically — trigger remediation rather than just surfacing analysis. Pre-defined dashboards, like pre-curated playlists, served their era but cannot compete with AI that adapts to the signal in real time.
+
+### On Managing AI Agents (May 2026)
+> "Working with AI agents is management." — DevOps & AI Toolkit, May 2026
+
+> "The micromanager can only manage one person." — DevOps & AI Toolkit, May 2026
+
+Managing AI agents is a management discipline, not a technical one. The micromanager anti-pattern — hovering over every AI action — scales to exactly one agent. Effective AI orchestration requires the same skills as effective people management: clear delegation, trust with verification, and knowing when to intervene versus when to let the agent run.
+
+### On Human Accountability for AI Failures (June 2026)
+> "You chose the model, you chose the agent, you wrote the rule set." — DevOps Paradox #353, Jun 2026
+
+> "A person owns it, not the AI." — DevOps Paradox #353, Jun 2026
+
+When AI agents fail, accountability traces back to the human who selected the model, configured the agent, and authored the rules. "Move fast and break things" still works in the AI era — the key is that a human owns the outcome, not the AI.
+
+### On No-Code as AI Guardrails (May 2026)
+> "No-code is the guardrail vibe coding needs." — DevOps Paradox #352, May 2026
+
+> "People love AI chat boxes in tools they have never used before. They close AI chat boxes in tools they already know." — DevOps Paradox #352, May 2026
+
+No-code platforms provide the structured constraints that unconstrained AI code generation ("vibe coding") desperately needs. The insight about AI chat boxes reveals a deeper truth: AI assistance is most valued when users lack expertise, and least valued when they already have it. This has profound implications for where to invest in AI tooling.
+
+### On AI Voice Cloning for Knowledge Preservation (June 2026)
+> "Your dead founder trains new hires." — DevOps Paradox #354, Jun 2026
+
+AI voice cloning (via tools like Reflekta.ai) enables a "SoulTech" framework where business knowledge is preserved beyond individual tenure or even mortality. The provocative framing — a deceased founder still onboarding employees — highlights both the power and the ethical weight of synthetic voice preservation for institutional knowledge transfer.
+
 ## Leadership Principles
 
 1. **Hands-on first** - Don't recommend what you haven't built yourself
@@ -223,7 +268,7 @@ Viktor created **Dot AI**, an intelligent MCP server that allows AI agents to ma
 ### Vision
 The future involves experts bringing their own AI agents to companies - personal toolsets trained on their experience and best practices that integrate with organizational systems. Pair programming evolves from developer-to-developer collaboration to human-to-AI partnerships.
 
-## Recent Insights (January-March 2026)
+## Recent Insights (January-June 2026)
 
 ### On What Developers Should Actually Be Doing (Episode #334)
 > "Coding was never the hardest part of software development." — DevOps Paradox, Jan 21, 2026
@@ -271,6 +316,9 @@ Crossplane extends Kubernetes into a universal control plane, allowing organizat
 | Developer Role | 75%+ will be architecting/orchestrating, not building |
 | Platform UIs | Web interfaces obsolete, replaced by AI agents |
 | Hiring | System design & problem-solving prioritized over LeetCode |
+| Code Review | AI-first pass, human second pass (CodeRabbit) |
+| Observability | AI replaces manual dashboard monitoring |
+| AI Management | Managing agents = management discipline |
 
 ## Upcoming Events
 
@@ -278,7 +326,7 @@ Crossplane extends Kubernetes into a universal control plane, allowing organizat
 - **Talk:** "Choose Your Own Adventure: AI Meets Internal Developer Platform" with Whitney Lee
 - Continues Viktor's theme of AI-driven platform engineering and intent-based infrastructure management
 
-## DevOps Paradox Live (January-March 2026)
+## DevOps Paradox Episodes (January-June 2026)
 
 ### January 5, 2026 Live Session
 Darin Pope and Viktor Farcic held a DevOps Paradox Live discussing predictions for 2026 in DevOps, platform engineering, and the evolving role of developers.
@@ -293,12 +341,21 @@ Key discussion points:
 ### March 6, 2026 Livestream: "The SDLC Is Dead and Context Is All That's Left"
 Viktor and Darin discussed the convergence of AI pricing reaching minimum wage levels and the death of the traditional SDLC. Context engineering — providing the right context to AI agents — is replacing process-heavy software development methodologies as the critical discipline for engineering teams.
 
+### Episode 354: "Your Dead Founder Trains New Hires" (June 10, 2026)
+AI voice cloning through tools like Reflekta.ai enables a "SoulTech" framework — preserving business knowledge and institutional memory beyond any individual's tenure. The episode explored the ethics and practicality of synthetic voice as a knowledge transfer mechanism.
+
+### Episode 353: "A Person Owns It Not the AI" (June 3, 2026)
+Viktor and Darin discussed human accountability for AI agent failures. Core thesis: "You chose the model, you chose the agent, you wrote the rule set" — the human is always accountable. Also affirmed that "move fast and break things" remains valid in the AI era precisely because human ownership provides the accountability backstop.
+
+### Episode 352: "No-Code Is the Guardrail Vibe Coding Needs" (May 27, 2026)
+No-code platforms as structured constraints for AI-generated code. Key observation: "People love AI chat boxes in tools they have never used before. They close AI chat boxes in tools they already know." AI assistance value is inversely proportional to user expertise in a given tool.
+
 ### On AI Transformation Barriers
 > "Organizations are applying AI to optimize coding, but the constraint will move downstream. Releases and verification become the new bottleneck. Coordination and incident handling need attention. Faster queues don't equal faster outcomes without addressing the whole system." — DevOps Paradox, Jan 2026
 
 ## Sources
 
-- [DevOps Toolkit YouTube](https://www.youtube.com/@DevOpsToolkit)
+- [DevOps & AI Toolkit YouTube](https://www.youtube.com/@DevOpsToolkit) (formerly "DevOps Toolkit")
 - [DevOps Paradox Podcast](https://www.devopsparadox.com/)
 - [Upbound Blog - 7 Core Elements of IDP](https://blog.upbound.io/7-core-elements-of-an-internal-developer-platform)
 - [The DevOps Toolkit Book Series](https://leanpub.com/u/vfarcic)
@@ -313,3 +370,13 @@ Viktor and Darin discussed the convergence of AI pricing reaching minimum wage l
 - [DOP 339 - DNS Is Old Tech (And That's Why It Still Runs the Internet)](https://www.devopsparadox.com/)
 - [Livestream - The SDLC Is Dead and Context Is All That's Left (Mar 6, 2026)](https://www.devopsparadox.com/livestreams/the-sdlc-is-dead-and-context-is-all-thats-left-2026-03-06/)
 - [Future of Platform Engineering Is About Much More Than AI - The New Stack](https://thenewstack.io/future-of-platform-engineering-is-about-much-more-than-ai/)
+- [Why AI Code Review Goes First (And Humans Go Second)](https://youtube.com/watch?v=KyodvaYemxM)
+- [How I Access Every AI Model Without the Lock-In](https://youtube.com/watch?v=YKCJwk6xLwA)
+- [I Stopped Staring at Dashboards. AI Reads My Grafana Metrics Now.](https://youtube.com/watch?v=HI6KleJAZPY)
+- [Analysis Without Remediation Is Pointless](https://youtube.com/watch?v=tFwVpwZQaEM)
+- [Pre-Defined Dashboards Are Our YouTube](https://youtube.com/watch?v=U0zQI71CtwU)
+- [The Micromanager Can Only Manage One Person](https://youtube.com/watch?v=WwfGiE0yIn4)
+- [Working With AI Agents Is Management](https://youtube.com/watch?v=CNA201SnyK0)
+- [DOP 354 - Your Dead Founder Trains New Hires](https://www.devopsparadox.com/episodes/)
+- [DOP 353 - A Person Owns It Not the AI](https://www.devopsparadox.com/episodes/)
+- [DOP 352 - No-Code Is the Guardrail Vibe Coding Needs](https://www.devopsparadox.com/episodes/)
